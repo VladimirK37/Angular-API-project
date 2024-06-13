@@ -1,0 +1,14 @@
+C:\Users\vladi\source\repos\WEBTest\WebTest.Data\obj\Debug\net6.0\WebTest.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\source\repos\WEBTest\WebTest.Data\obj\Debug\net6.0\WebTest.Data.AssemblyInfoInputs.cache
+C:\Users\vladi\source\repos\WEBTest\WebTest.Data\obj\Debug\net6.0\WebTest.Data.AssemblyInfo.cs
+C:\Users\vladi\source\repos\WEBTest\WebTest.Data\obj\Debug\net6.0\WebTest.Data.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\WEBTest\WebTest.Data\bin\Debug\net6.0\WebTest.Data.deps.json
+C:\Users\vladi\source\repos\WEBTest\WebTest.Data\bin\Debug\net6.0\WebTest.Data.runtimeconfig.json
+C:\Users\vladi\source\repos\WEBTest\WebTest.Data\bin\Debug\net6.0\WebTest.Data.dll
+C:\Users\vladi\source\repos\WEBTest\WebTest.Data\bin\Debug\net6.0\WebTest.Data.pdb
+C:\Users\vladi\source\repos\WEBTest\WebTest.Data\obj\Debug\net6.0\WebTest.Data.csproj.AssemblyReference.cache
+C:\Users\vladi\source\repos\WEBTest\WebTest.Data\obj\Debug\net6.0\WebTest.Data.dll
+C:\Users\vladi\source\repos\WEBTest\WebTest.Data\obj\Debug\net6.0\refint\WebTest.Data.dll
+C:\Users\vladi\source\repos\WEBTest\WebTest.Data\obj\Debug\net6.0\WebTest.Data.pdb
+C:\Users\vladi\source\repos\WEBTest\WebTest.Data\obj\Debug\net6.0\WebTest.Data.genruntimeconfig.cache
+C:\Users\vladi\source\repos\WEBTest\WebTest.Data\obj\Debug\net6.0\ref\WebTest.Data.dll
